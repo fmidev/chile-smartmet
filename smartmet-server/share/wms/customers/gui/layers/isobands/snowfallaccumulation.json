@@ -1,0 +1,57 @@
+[
+    {
+        "attributes": {
+            "class": "Snowfallaccumulation_200_inf"
+        },
+        "lolimit": 0.02,
+        "qid": "Snowfallaccumulation_200_inf"
+    },
+    {
+        "attributes": {
+            "class": "Snowfallaccumulation_150_200"
+        },
+	"hilimit": 0.02,
+        "lolimit": 0.015,
+        "qid": "Snowfallaccumulation_150_200"
+    },
+    {
+        "attributes": {
+            "class": "Snowfallaccumulation_100_150"
+        },
+	"hilimit": 0.015,
+        "lolimit": 0.010,
+        "qid": "Snowfallaccumulation_100_150"
+    },
+    {
+        "attributes": {
+            "class": "Snowfallaccumulation_50_100"
+        },
+	"hilimit": 0.010,
+        "lolimit": 0.005,
+        "qid": "Snowfallaccumulation_50_100"
+    },
+    {
+        "attributes": {
+            "class": "Snowfallaccumulation_20_50"
+        },
+        "hilimit": 0.005,
+        "lolimit": 0.002,
+        "qid": "Snowfallaccumulation_20_50"
+    },
+    {
+        "attributes": {
+            "class": "Snowfallaccumulation_10_20"
+        },
+        "hilimit": 0.002,
+        "lolimit": 0.001,
+        "qid": "Snowfallaccumulation_10_20"
+    },
+    {
+        "attributes": {
+            "class": "Snowfallaccumulation_0_10"
+        },
+        "hilimit": 0.001,
+        "lolimit": 0.000,
+        "qid": "Snowfallaccumulation_0_10"
+    }
+]            

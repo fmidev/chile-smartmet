@@ -1,0 +1,56 @@
+[
+    {
+       "attributes": {
+           "class": "Icecover_1"
+       },
+       "lolimit": 1,
+       "qid": "Icecover_1"
+    },
+    {
+        "attributes": {
+            "class": "Icecover_08_1"
+        },
+        "hilimit": 1,
+        "lolimit": 0.8,
+        "qid": "Icecover_08_1"
+     },
+     {
+        "attributes": {
+            "class": "Icecover_06_08"
+        },
+        "hilimit": 0.8,
+        "lolimit": 0.6,
+        "qid": "Icecover_06_08"
+     },
+     {
+        "attributes": {
+            "class": "Icecover_04_06"
+        },
+        "hilimit": 0.6,
+        "lolimit": 0.4,
+        "qid": "Icecover_04_06"
+     },
+     {
+        "attributes": {
+            "class": "Icecover_02_04"
+        },
+        "hilimit": 0.4,
+        "lolimit": 0.2,
+        "qid": "Icecover_02_04"
+     },
+     {
+        "attributes": {
+            "class": "Icecover_0_02"
+        },
+        "hilimit": 0.2,
+        "lolimit": 0,
+        "qid": "Icecover_0_02"
+     },
+     {
+        "attributes": {
+            "class": "Icecover_0"
+        },
+        "hilimit": 0,
+        "qid": "Icecover_0"
+    }
+]      

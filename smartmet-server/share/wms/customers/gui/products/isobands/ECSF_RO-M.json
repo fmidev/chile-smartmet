@@ -1,0 +1,24 @@
+{
+    "title": "Runoff in Depth of Water in Metres",
+    "abstract": "Runoff in depth of water in metres from ECSF reanalysis",
+    "projection": {},
+    "producer": "ECSF",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/surfacerunoff.json",
+            "css": "isobands/surfacerunoff.css",
+            "parameter": "RO-M:ECSF::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}
+

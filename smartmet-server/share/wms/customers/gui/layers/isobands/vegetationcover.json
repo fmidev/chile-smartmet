@@ -1,0 +1,53 @@
+[
+     {
+        "attributes": {
+            "class": "Vegetation_001_01"
+        },
+	"hilimit": 0.1,
+        "lolimit": 0.01,
+        "qid": "Vegetation_001_01"
+    },
+    {
+        "attributes": {
+            "class": "Vegetation_01_02"
+        },
+	"hilimit": 0.2,
+        "lolimit": 0.1,
+        "qid": "Vegetation_01_02"
+    },
+    {
+        "attributes": {
+            "class": "Vegetation_02_04"
+        },
+	"hilimit": 0.4,
+        "lolimit": 0.2,
+        "qid": "Vegetation_02_04"
+    },
+    {
+        "attributes": {
+            "class": "Vegetation_04_06"
+        },
+        "hilimit": 0.6,
+        "lolimit": 0.4,
+        "qid": "Vegetation_04_06"
+    },
+    {
+        "attributes": {
+            "class": "Vegetation_06_08"
+        },
+        "hilimit": 0.8,
+        "lolimit": 0.6,
+        "qid": "Vegetation_06_08"
+    },
+    {
+        "attributes": {
+            "class": "Vegetation_08_1"
+        },
+        "hilimit": 1.0,
+        "lolimit": 0.8,
+        "qid": "Vegetation_08_1"
+    }
+]
+
+        
+      

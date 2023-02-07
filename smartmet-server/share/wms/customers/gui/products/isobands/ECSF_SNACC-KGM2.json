@@ -1,0 +1,23 @@
+{
+    "title": "Snowfallaccumulation in mm",
+    "abstract": "Snowfallaccumulation in mm from ECSF reanalysis",
+    "projection": {},
+    "producer": "ECSF",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/snowfallaccumulation.json",
+            "css": "isobands/snowfallaccumulation.css",
+            "parameter": "SNACC-KGM2:ECSF::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}
