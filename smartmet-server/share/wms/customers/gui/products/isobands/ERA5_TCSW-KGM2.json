@@ -1,0 +1,23 @@
+{
+    "title": "Total Column Snow Water, in kg m-2 ",
+    "abstract": "Total amount of water in the form of snow in a column, in kg m-2, from ERA5 reanalysis",
+    "projection": {},
+    "producer": "ERA5",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/totalcolumnsnowwater.json",
+            "css": "isobands/totalcolumnsnowwater.css",
+            "parameter": "TCSW-KGM2:ERA5::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

@@ -1,0 +1,42 @@
+[
+    {
+       "attributes": {
+           "class": "Initialfirespread_134"
+       },
+       "lolimit": 13.4,
+       "qid": "Initialfirespread_134"
+    },
+    {
+        "attributes": {
+            "class": "Initialfirespread_75_134"
+        },
+        "hilimit": 13.4,
+        "lolimit": 7.5,
+        "qid": "Initialfirespread_75_134"
+     },
+     {
+        "attributes": {
+            "class": "Initialfirespread_50_75"
+        },
+        "hilimit": 7.5,
+        "lolimit": 5.0,
+        "qid": "Initialfirespread_50_75"
+     },
+     {
+        "attributes": {
+            "class": "Initialfirespread_32_50"
+        },
+        "hilimit": 5.0,
+        "lolimit": 3.2,
+        "qid": "Initialfirespread_32_50"
+     },
+     {
+        "attributes": {
+            "class": "Initialfirespread_32"
+        },
+        "hilimit": 3.2,
+        "qid": "Initialfirespread_32"
+    }
+]
+        
+      

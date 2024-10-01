@@ -1,0 +1,43 @@
+[
+    {
+       "attributes": {
+           "class": "Firebuildup_1781"
+       },
+       "lolimit": 178.1,
+       "qid": "Firebuildup_1781"
+    },
+    {
+        "attributes": {
+            "class": "Firebuildup_733_1781"
+        },
+        "hilimit": 178.1,
+        "lolimit": 73.3,
+        "qid": "Firebuildup_733_1781"
+     },
+     {
+        "attributes": {
+            "class": "Firebuildup_407_733"
+        },
+        "hilimit": 73.3,
+        "lolimit": 40.7,
+        "qid": "Firebuildup_407_733"
+     },
+     {
+        "attributes": {
+            "class": "Firebuildup_242_407"
+        },
+        "hilimit": 40.7,
+        "lolimit": 24.2,
+        "qid": "Firebuildup_242_407"
+     },
+     {
+        "attributes": {
+            "class": "Firebuildup_242"
+        },
+        "hilimit": 24.2,
+        "qid": "Firebuildup_242"
+    }
+]
+
+        
+      

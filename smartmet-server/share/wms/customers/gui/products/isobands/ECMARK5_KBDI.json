@@ -1,0 +1,23 @@
+{
+    "title": "ECMARK5 Keetch-Byram Drought Index As a Number",
+    "abstract": "Keetch-Byram drought index, reflects dryness/flammability of organic material, as a number from ECMARK5",
+    "projection": {},
+    "producer": "ECMARK5",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/keetchbyramdrought.json",
+            "css": "isobands/keetchbyramdrought.css",
+            "parameter": "KBDI:ECMARK5::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

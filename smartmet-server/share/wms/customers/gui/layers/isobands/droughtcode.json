@@ -1,0 +1,43 @@
+[
+    {
+       "attributes": {
+           "class": "Droughtcode_7494"
+       },
+       "lolimit": 749.4,
+       "qid": "Droughtcode_7494"
+    },
+    {
+        "attributes": {
+            "class": "Droughtcode_4506_7494"
+        },
+        "hilimit": 749.4,
+        "lolimit": 450.6,
+        "qid": "Droughtcode_4506_7494"
+     },
+     {
+        "attributes": {
+            "class": "Droughtcode_3341_4506"
+        },
+        "hilimit": 450.6,
+        "lolimit": 334.1,
+        "qid": "Droughtcode_3341_4506"
+     },
+     {
+        "attributes": {
+            "class": "Droughtcode_2561_3341"
+        },
+        "hilimit": 334.1,
+        "lolimit": 256.1,
+        "qid": "Droughtcode_2561_3341"
+     },
+     {
+        "attributes": {
+            "class": "Droughtcode_2561"
+        },
+        "hilimit": 256.1,
+        "qid": "Droughtcode_2561"
+    }
+]
+
+        
+      

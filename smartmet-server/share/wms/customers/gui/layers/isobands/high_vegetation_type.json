@@ -1,0 +1,53 @@
+[
+     {
+        "attributes": {
+            "class": "Vegetationtype_3"
+        },
+        "value": 3,
+        "label": "Evergreen",
+        "qid": "Vegetationtype_3"
+    },
+    {
+        "attributes": {
+            "class": "Vegetationtype_4"
+        },
+        "value": 4,
+        "label": "Needleleaftrees",
+        "qid": "Vegetationtype_4"
+    },
+    {
+        "attributes": {
+            "class": "Vegetationtype_5"
+        },
+        "value": 5,
+        "label": "Deciduous needleleaftrees",
+        "qid": "Vegetationtype_5"
+    },
+    {
+        "attributes": {
+            "class": "Vegetationtype_6"
+        },
+        "value": 6,
+        "label": "Evergreen broadleaftrees",
+        "qid": "Vegetationtype_6"
+    },
+    {
+        "attributes": {
+            "class": "Vegetationtype_18"
+        },
+        "value": 18,
+        "label": "Mixed forest/woodland",
+        "qid": "Vegetationtype_18"
+    },
+    {
+        "attributes": {
+            "class": "Vegetationtype_19"
+        },
+        "value": 19,
+        "label": "Interrupted forest",
+        "qid": "Vegetationtype_19"
+    }
+]
+
+        
+      

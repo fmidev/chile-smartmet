@@ -1,0 +1,163 @@
+[
+    {
+        "attributes": {
+            "class": "Radiation_500_inf"
+        },
+        "lolimit": 43200000.0,
+        "qid": "Radiation_500_inf"
+    },
+     {
+        "attributes": {
+            "class": "Radiation_400_500"
+        },
+	    "hilimit": 43200000.0,
+        "lolimit": 34560000.0,
+        "qid": "Radiation_400_500"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_350_400"
+        },
+	    "hilimit": 34560000.0,
+        "lolimit": 30240000.0,
+        "qid": "Radiation_350_400"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_300_350"
+        },
+	    "hilimit": 30240000.0,
+        "lolimit": 25920000.0,
+        "qid": "Radiation_300_350"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_275_300"
+        },
+        "hilimit": 25920000.0,
+        "lolimit": 23760000.0,
+        "qid": "Radiation_275_300"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_250_275"
+        },
+        "hilimit": 23760000.0,
+        "lolimit": 21600000.0,
+        "qid": "Radiation_250_275"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_225_250"
+        },
+        "hilimit": 21600000.0,
+        "lolimit": 19440000.0,
+        "qid": "Radiation_225_250"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_200_225"
+        },
+        "hilimit": 19440000.0,
+        "lolimit": 17280000.0,
+        "qid": "Radiation_200_225"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_175_200"
+        },
+        "hilimit": 17280000.0,
+        "lolimit": 15120000.0,
+        "qid": "Radiation_175_200"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_150_175"
+        },
+        "hilimit": 15120000.0,
+        "lolimit": 12960000.0,
+        "qid": "Radiation_150_175"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_125_150"
+        },
+        "hilimit": 12960000.0,
+        "lolimit": 10800000.0,
+        "qid": "Radiation_125_150"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_100_125"
+        },
+        "hilimit": 10800000.0,
+        "lolimit": 8640000.0,
+        "qid": "Radiation_100_125"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_80_100"
+        },
+        "hilimit": 8640000.0,
+        "lolimit": 6912000.0,
+        "qid": "Radiation_80_100"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_60_80"
+        },
+        "hilimit": 6912000.0,
+        "lolimit": 5184000.0,
+        "qid": "Radiation_60_80"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_50_60"
+        },
+        "hilimit": 5184000.0,
+        "lolimit": 4320000.0,
+        "qid": "Radiation_50_60"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_40_50"
+        },
+        "hilimit": 4320000.0,
+        "lolimit": 3456000.0,
+        "qid": "Radiation_40_50"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_30_40"
+        },
+        "hilimit": 3456000.0,
+        "lolimit": 2592000.0,
+        "qid": "Radiation_30_40"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_20_30"
+        },
+        "hilimit": 2592000.0,
+        "lolimit": 1728000.0,
+        "qid": "Radiation_20_30"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_10_20"
+        },
+        "hilimit": 1728000.0,
+        "lolimit": 864000.0,
+        "qid": "Radiation_10_20"
+    },
+    {
+        "attributes": {
+            "class": "Radiation_inf_10"
+        },
+        "hilimit": 864000.0,
+        "qid": "Radiation_inf_10"
+    }
+]
+
+        
+      

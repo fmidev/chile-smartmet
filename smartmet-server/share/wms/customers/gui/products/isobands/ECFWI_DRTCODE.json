@@ -1,0 +1,23 @@
+{
+    "title": "Droughtcode",
+    "abstract": "Droughtcode as a number from ECFWI",
+    "projection": {},
+    "producer": "ECFWI",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/droughtcode.json",
+            "css": "isobands/droughtcode.css",
+            "parameter": "DRTCODE:ECFWI::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

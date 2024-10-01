@@ -1,0 +1,8 @@
+.Sensibleheatflux_inf_30       { stroke:none; fill: rgb(255,255,102) }
+.Sensibleheatflux_30_20       { stroke:none; fill: rgb(255,204,153) }
+.Sensibleheatflux_20_10       { stroke:none; fill: rgb(255,178,102) }
+.Sensibleheatflux_10_0       { stroke:none; fill: rgb(255,153,51) }
+.Sensibleheatflux_0_10       { stroke:none; fill: rgb(255,128,0) }
+.Sensibleheatflux_10_20       { stroke:none; fill: rgb(204,102,0) }
+.Sensibleheatflux_20_30       { stroke:none; fill: rgb(255,51,51) }
+.Sensibleheatflux_30_inf       { stroke:none; fill: rgb(255,0,0) }

@@ -1,0 +1,59 @@
+[
+    {
+       "attributes": {
+           "class": "Fireweatherindex_700"
+       },
+       "lolimit": 70.0,
+       "qid": "Fireweatherindex_700"
+    },
+    {
+        "attributes": {
+            "class": "Fireweatherindex_500_700"
+        },
+        "hilimit": 70.0,
+        "lolimit": 50.0,
+        "qid": "Fireweatherindex_500_700"
+     },
+     {
+        "attributes": {
+            "class": "Fireweatherindex_380_500"
+        },
+        "hilimit": 50.0,
+        "lolimit": 38.0,
+        "qid": "Fireweatherindex_380_500"
+     },
+     {
+        "attributes": {
+            "class": "Fireweatherindex_213_380"
+        },
+        "hilimit": 38.0,
+        "lolimit": 21.3,
+        "qid": "Fireweatherindex_213_380"
+     },
+     {
+        "attributes": {
+            "class": "Fireweatherindex_111_213"
+        },
+        "hilimit": 21.3,
+        "lolimit": 11.1,
+        "qid": "Fireweatherindex_111_213"
+     },
+     {
+        "attributes": {
+            "class": "Fireweatherindex_52_111"
+        },
+        "hilimit": 11.1,
+        "lolimit": 5.2,
+        "qid": "Fireweatherindex_52_111"
+     },
+     {
+        "attributes": {
+            "class": "Fireweatherindex_52"
+        },
+        "hilimit": 5.2,
+        "qid": "Fireweatherindex_52"
+    }
+]
+
+        
+      

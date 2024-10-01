@@ -1,0 +1,23 @@
+{
+    "title": "CAMS Total Column Hydrogen Peroxide in KGM2",
+    "abstract": "Total column hydrogen peroxide in kgm-2 from CAMS",
+    "projection": {},
+    "producer": "CAMS",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/total_column.json",
+            "css": "isobands/total_column.css",
+            "parameter": "TCH2O2-KGM2:CAMS::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

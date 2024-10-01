@@ -1,0 +1,23 @@
+{
+    "title": "GEMS Total Column Ozone in Number",
+    "abstract": "Total column ozone in number from GEMS",
+    "projection": {},
+    "producer": "GEMS",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/ozone.json",
+            "css": "isobands/ozone.css",
+            "parameter": "GTCO3-KGM2:GEMS::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

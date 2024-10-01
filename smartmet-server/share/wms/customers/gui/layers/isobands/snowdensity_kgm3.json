@@ -1,0 +1,131 @@
+[
+    {
+        "attributes": {
+            "class": "Snowdensity_450_inf"
+        },
+        "lolimit": 450.0,
+        "qid": "Snowdensity_450_inf"
+    },
+     {
+        "attributes": {
+            "class": "Snowdensity_425_450"
+        },
+	    "hilimit": 450.0,
+        "lolimit": 425.0,
+        "qid": "Snowdensity_425_450"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_400_425"
+        },
+	    "hilimit": 425.0,
+        "lolimit": 400.0,
+        "qid": "Snowdensity_400_425"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_375_400"
+        },
+	    "hilimit": 400.0,
+        "lolimit": 375.0,
+        "qid": "Snowdensity_375_400"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_350_375"
+        },
+        "hilimit": 375.0,
+        "lolimit": 350.0,
+        "qid": "Snowdensity_350_375"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_325_350"
+        },
+        "hilimit": 350.0,
+        "lolimit": 325.0,
+        "qid": "Snowdensity_325_350"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_300_325"
+        },
+        "hilimit": 325.0,
+        "lolimit": 300.0,
+        "qid": "Snowdensity_300_325"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_275_300"
+        },
+        "hilimit": 300.0,
+        "lolimit": 275.0,
+        "qid": "Snowdensity_275_300"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_250_275"
+        },
+        "hilimit": 275.0,
+        "lolimit": 250.0,
+        "qid": "Snowdensity_250_275"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_225_250"
+        },
+        "hilimit": 250.0,
+        "lolimit": 225.0,
+        "qid": "Snowdensity_225_250"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_200_225"
+        },
+        "hilimit": 225.0,
+        "lolimit": 200.0,
+        "qid": "Snowdensity_200_225"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_175_200"
+        },
+        "hilimit": 200.0,
+        "lolimit": 175.0,
+        "qid": "Snowdensity_175_200"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_150_175"
+        },
+        "hilimit": 175.0,
+        "lolimit": 150.0,
+        "qid": "Snowdensity_150_175"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_125_150"
+        },
+        "hilimit": 150.0,
+        "lolimit": 125.0,
+        "qid": "Snowdensity_125_150"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_100_125"
+        },
+        "hilimit": 125.0,
+        "lolimit": 100.0,
+        "qid": "Snowdensity_100_125"
+    },
+    {
+        "attributes": {
+            "class": "Snowdensity_inf_100"
+        },
+        "hilimit": 100.0,
+        "qid": "Snowdensity_inf_100"
+    }
+]
+
+        
+      

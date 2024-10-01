@@ -1,0 +1,149 @@
+[
+    {
+       "attributes": {
+           "class": "Ozone_100_125"
+       },
+   "hilimit": 125.0,
+       "lolimit": 100.0,
+       "qid": "Ozone_100_125"
+   },
+   {
+       "attributes": {
+           "class": "Ozone_125_150"
+       },
+   "hilimit": 150.0,
+       "lolimit": 125.0,
+       "qid": "Ozone_125_150"
+   },
+   {
+       "attributes": {
+           "class": "Ozone_150_175"
+       },
+   "hilimit": 175.0,
+       "lolimit": 150.0,
+       "qid": "Ozone_150_175"
+   },
+   {
+       "attributes": {
+           "class": "Ozone_175_200"
+       },
+       "hilimit": 200.0,
+       "lolimit": 175.0,
+       "qid": "Ozone_175_200"
+   },
+   {
+       "attributes": {
+           "class": "Ozone_200_220"
+       },
+       "hilimit": 220.0,
+       "lolimit": 200.0,
+       "qid": "Ozone_200_220"
+   },
+   {
+    "attributes": {
+        "class": "Ozone_220_240"
+    },
+    "hilimit": 240.0,
+    "lolimit": 220.0,
+    "qid": "Ozone_220_240"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_240_260"
+        },
+        "hilimit": 260.0,
+        "lolimit": 240.0,
+        "qid": "Ozone_240_260"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_260_280"
+        },
+        "hilimit": 280.0,
+        "lolimit": 260.0,
+        "qid": "Ozone_260_280"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_280_300"
+        },
+        "hilimit": 300.0,
+        "lolimit": 280.0,
+        "qid": "Ozone_280_300"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_300_320"
+        },
+        "hilimit": 320.0,
+        "lolimit": 300.0,
+        "qid": "Ozone_300_320"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_320_340"
+        },
+        "hilimit": 340.0,
+        "lolimit": 320.0,
+        "qid": "Ozone_320_340"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_340_360"
+        },
+        "hilimit": 360.0,
+        "lolimit": 340.0,
+        "qid": "Ozone_340_360"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_360_380"
+        },
+        "hilimit": 380.0,
+        "lolimit": 360.0,
+        "qid": "Ozone_360_380"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_380_400"
+        },
+        "hilimit": 400.0,
+        "lolimit": 380.0,
+        "qid": "Ozone_380_400"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_400_425"
+        },
+        "hilimit": 425.0,
+        "lolimit": 400.0,
+        "qid": "Ozone_400_425"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_425_450"
+        },
+        "hilimit": 450.0,
+        "lolimit": 425.0,
+        "qid": "Ozone_425_450"
+    },
+    {
+        "attributes": {
+            "class": "Ozone_450_475"
+        },
+        "hilimit": 475.0,
+        "lolimit": 450.0,
+        "qid": "Ozone_450_475"
+    },
+   {
+       "attributes": {
+           "class": "Ozone_475_500"
+       },
+       "hilimit": 500.0,
+       "lolimit": 475.0,
+       "qid": "Ozone_475_500"
+   }
+]
+
+        
+      

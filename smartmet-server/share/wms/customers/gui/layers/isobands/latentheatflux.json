@@ -1,0 +1,83 @@
+[
+    {
+        "attributes": {
+            "class": "Latentheatflux_80_inf"
+        },
+        "lolimit": 80.0,
+        "qid": "Latentheatflux_80_inf"
+    },
+     {
+        "attributes": {
+            "class": "Latentheatflux_70_80"
+        },
+	    "hilimit": 80.0,
+        "lolimit": 70.0,
+        "qid": "Latentheatflux_70_80"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_60_70"
+        },
+	    "hilimit": 70.0,
+        "lolimit": 60.0,
+        "qid": "Latentheatflux_60_70"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_50_60"
+        },
+	    "hilimit": 60.0,
+        "lolimit": 50.0,
+        "qid": "Latentheatflux_50_60"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_40_50"
+        },
+        "hilimit": 50.0,
+        "lolimit": 40.0,
+        "qid": "Latentheatflux_40_50"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_30_40"
+        },
+        "hilimit": 40.0,
+        "lolimit": 30.0,
+        "qid": "Latentheatflux_30_40"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_20_30"
+        },
+        "hilimit": 30.0,
+        "lolimit": 20.0,
+        "qid": "Latentheatflux_20_30"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_10_20"
+        },
+        "hilimit": 20.0,
+        "lolimit": 10.0,
+        "qid": "Latentheatflux_10_20"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_0_10"
+        },
+        "hilimit": 10.0,
+        "lolimit": 0.0,
+        "qid": "Latentheatflux_0_10"
+    },
+    {
+        "attributes": {
+            "class": "Latentheatflux_inf_0"
+        },
+        "hilimit": 0.0,
+        "qid": "Latentheatflux_inf_0"
+    }
+]
+
+        
+      

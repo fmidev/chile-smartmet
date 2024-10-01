@@ -1,0 +1,43 @@
+[
+    {
+       "attributes": {
+           "class": "Duffmoisturecode_1407"
+       },
+       "lolimit": 140.7,
+       "qid": "Duffmoisturecode_1407"
+    },
+    {
+        "attributes": {
+            "class": "Duffmoisturecode_531_1407"
+        },
+        "hilimit": 140.7,
+        "lolimit": 53.1,
+        "qid": "Duffmoisturecode_531_1407"
+     },
+     {
+        "attributes": {
+            "class": "Duffmoisturecode_279_531"
+        },
+        "hilimit": 53.1,
+        "lolimit": 27.9,
+        "qid": "Duffmoisturecode_279_531"
+     },
+     {
+        "attributes": {
+            "class": "Duffmoisturecode_157_279"
+        },
+        "hilimit": 27.9,
+        "lolimit": 15.7,
+        "qid": "Duffmoisturecode_157_279"
+     },
+     {
+        "attributes": {
+            "class": "Duffmoisturecode_157"
+        },
+        "hilimit": 15.7,
+        "qid": "Duffmoisturecode_157"
+    }
+]
+
+        
+      

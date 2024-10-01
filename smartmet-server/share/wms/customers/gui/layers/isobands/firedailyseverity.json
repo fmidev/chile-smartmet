@@ -1,0 +1,52 @@
+[
+    {
+        "attributes": {
+            "class": "Firedailyseverity_98_100"
+        },
+        "hilimit": 100.0,
+        "lolimit": 98.0,
+        "qid": "Firedailyseverity_98_100"
+     },
+     {
+        "attributes": {
+            "class": "Firedailyseverity_95_98"
+        },
+        "hilimit": 98.0,
+        "lolimit": 95.0,
+        "qid": "Firedailyseverity_95_98"
+     },
+     {
+        "attributes": {
+            "class": "Firedailyseverity_90_95"
+        },
+        "hilimit": 95.0,
+        "lolimit": 90.0,
+        "qid": "Firedailyseverity_90_95"
+     },
+     {
+        "attributes": {
+            "class": "Firedailyseverity_85_90"
+        },
+        "hilimit": 90.0,
+        "lolimit": 85.0,
+        "qid": "Firedailyseverity_85_90"
+     },
+     {
+        "attributes": {
+            "class": "Firedailyseverity_75_85"
+        },
+        "hilimit": 85.0,
+        "lolimit": 75.0,
+        "qid": "Firedailyseverity_75_85"
+     },
+     {
+        "attributes": {
+            "class": "Firedailyseverity_75"
+        },
+        "hilimit": 75.0,
+        "qid": "Firedailyseverity_75"
+    }
+]
+
+        
+      

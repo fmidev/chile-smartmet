@@ -1,0 +1,23 @@
+{
+    "title": "Snow Depth (M of Snow Equivalent) in M",
+    "abstract": "Winter eurasian snow depth in meters from ECSF reanalysis",
+    "projection": {},
+    "producer": "ECSF",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/snow_m.json",
+            "css": "isobands/snow_m.css",
+            "parameter": "WESD-M:ECSF::1:0:1:0",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

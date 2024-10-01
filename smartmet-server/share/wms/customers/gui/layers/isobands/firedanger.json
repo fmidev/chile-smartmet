@@ -1,0 +1,52 @@
+[
+    {
+       "attributes": {
+           "class": "Firedanger_100"
+       },
+       "lolimit": 100.0,
+       "qid": "Firedanger_100"
+    },
+    {
+        "attributes": {
+            "class": "Firedanger_75_99"
+        },
+        "hilimit": 99.0,
+        "lolimit": 75.0,
+        "qid": "Firedanger_75_99"
+     },
+     {
+        "attributes": {
+            "class": "Firedanger_50_74"
+        },
+        "hilimit": 74.0,
+        "lolimit": 50.0,
+        "qid": "Firedanger_50_74"
+     },
+     {
+        "attributes": {
+            "class": "Firedanger_25_49"
+        },
+        "hilimit": 49.0,
+        "lolimit": 25.0,
+        "qid": "Firedanger_25_49"
+     },
+     {
+        "attributes": {
+            "class": "Firedanger_12_24"
+        },
+        "hilimit": 24.0,
+        "lolimit": 12.0,
+        "qid": "Firedanger_12_24"
+     },
+     {
+        "attributes": {
+            "class": "Firedanger_0_11"
+        },
+        "hilimit": 11.0,
+        "lolimit": 0.0,
+        "qid": "Firedanger_0_11"
+     }
+]
+
+        
+      

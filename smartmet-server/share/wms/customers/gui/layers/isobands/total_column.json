@@ -1,0 +1,125 @@
+[
+    {
+       "attributes": {
+           "class": "Total_column_5_10"
+       },
+   "hilimit": 10.0,
+       "lolimit": 5.0,
+       "qid": "Total_column_5_10"
+   },
+   {
+       "attributes": {
+           "class": "Total_column_10_15"
+       },
+   "hilimit": 15.0,
+       "lolimit": 10.0,
+       "qid": "Total_column_10_15"
+   },
+   {
+       "attributes": {
+           "class": "Total_column_15_20"
+       },
+   "hilimit": 20.0,
+       "lolimit": 15.0,
+       "qid": "Total_column_15_20"
+   },
+   {
+       "attributes": {
+           "class": "Total_column_20_25"
+       },
+       "hilimit": 25.0,
+       "lolimit": 20.0,
+       "qid": "Total_column_20_25"
+   },
+   {
+       "attributes": {
+           "class": "Total_column_25_30"
+       },
+       "hilimit": 30.0,
+       "lolimit": 25.0,
+       "qid": "Total_column_25_30"
+   },
+   {
+    "attributes": {
+        "class": "Total_column_30_35"
+    },
+    "hilimit": 35.0,
+    "lolimit": 30.0,
+    "qid": "Total_column_30_35"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_35_40"
+        },
+        "hilimit": 40.0,
+        "lolimit": 35.0,
+        "qid": "Total_column_35_40"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_40_45"
+        },
+        "hilimit": 45.0,
+        "lolimit": 40.0,
+        "qid": "Total_column_40_45"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_45_50"
+        },
+        "hilimit": 50.0,
+        "lolimit": 45.0,
+        "qid": "Total_column_45_50"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_50_55"
+        },
+        "hilimit": 55.0,
+        "lolimit": 50.0,
+        "qid": "Total_column_50_55"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_55_60"
+        },
+        "hilimit": 60.0,
+        "lolimit": 55.0,
+        "qid": "Total_column_55_60"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_60_65"
+        },
+        "hilimit": 65.0,
+        "lolimit": 60.0,
+        "qid": "Total_column_60_65"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_65_70"
+        },
+        "hilimit": 70.0,
+        "lolimit": 65.0,
+        "qid": "Total_column_65_70"
+    },
+    {
+        "attributes": {
+            "class": "Total_column_70_100"
+        },
+        "hilimit": 100.0,
+        "lolimit": 70.0,
+        "qid": "Total_column_70_100"
+    },
+    {
+       "attributes": {
+           "class": "Total_column_100_150"
+       },
+       "hilimit": 150.0,
+       "lolimit": 100.0,
+       "qid": "Total_column_100_150"
+    }
+]
+
+        
+      

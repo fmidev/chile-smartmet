@@ -1,0 +1,99 @@
+[
+    {
+        "attributes": {
+            "class": "Surfacestress_1_inf"
+        },
+        "lolimit": 1.0,
+        "qid": "Surfacestress_1_inf"
+    },
+     {
+        "attributes": {
+            "class": "Surfacestress_08_1"
+        },
+	    "hilimit": 1.0,
+        "lolimit": 0.8,
+        "qid": "Surfacestress_08_1"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_06_08"
+        },
+	    "hilimit": 0.8,
+        "lolimit": 0.6,
+        "qid": "Surfacestress_06_08"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_04_06"
+        },
+	    "hilimit": 0.6,
+        "lolimit": 0.4,
+        "qid": "Surfacestress_04_06"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_02_04"
+        },
+        "hilimit": 0.4,
+        "lolimit": 0.2,
+        "qid": "Surfacestress_02_04"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_0_02"
+        },
+        "hilimit": 0.2,
+        "lolimit": 0.0,
+        "qid": "Surfacestress_0_02"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_02_0"
+        },
+        "hilimit": 0.0,
+        "lolimit": -0.2,
+        "qid": "Surfacestress_02_0"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_04_02"
+        },
+        "hilimit": -0.2,
+        "lolimit": -0.4,
+        "qid": "Surfacestress_04_02"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_06_04"
+        },
+        "hilimit": -0.4,
+        "lolimit": -0.6,
+        "qid": "Surfacestress_06_04"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_08_06"
+        },
+        "hilimit": -0.6,
+        "lolimit": -0.8,
+        "qid": "Surfacestress_08_06"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_1_08"
+        },
+        "hilimit": -0.8,
+        "lolimit": -1.0,
+        "qid": "Surfacestress_1_08"
+    },
+    {
+        "attributes": {
+            "class": "Surfacestress_inf_1"
+        },
+        "hilimit": -1.0,
+        "qid": "Surfacestress_inf_1"
+    }
+]
+
+        
+      

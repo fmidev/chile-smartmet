@@ -1,0 +1,23 @@
+{
+    "title": "Net Long Wave Radiation Accumulation, Top of Atmosphere, in J/m2",
+    "abstract": "Net long wave radiation accumulation, top of atmosphere, in J/m2 from ECSF reanalysis",
+    "projection": {},
+    "producer": "ECSF",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/radiation_net_jm2.json",
+            "css": "isobands/radiation_net.css",
+            "parameter": "RTOPLWA-JM2:ECSF::1:0:1:0",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

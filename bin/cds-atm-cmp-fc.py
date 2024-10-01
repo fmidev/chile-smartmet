@@ -3,10 +3,11 @@ import sys
 import cdsapi
 import yaml
 
-with open('/home/users/smartmet/.camsapirc', 'r') as f:
-        credentials = yaml.safe_load(f)
-
-c = cdsapi.Client(url=credentials['url'], key=credentials['key'])
+with open('/home/users/smartmet/.cdsapirc', 'r') as f:
+    credentials = yaml.safe_load(f)
+print(credentials)
+c = cdsapi.Client()
+#url='https://ads-beta.atmosphere.copernicus.eu/api', key=credentials['key'])
 year= sys.argv[1]
 mon= sys.argv[2]
 day= sys.argv[3]
@@ -14,9 +15,9 @@ date='%s-%s-%s'%(year,mon,day)
 c.retrieve(
     'cams-global-atmospheric-composition-forecasts',
     {
-        'date': date+'/'+date,
-        'type': 'forecast',
-        'format': 'grib',
+        'date': [date+'/'+date],
+        'type': ['forecast'],
+        'data_format': 'grib',
         'variable': [
             'ammonium_aerosol_optical_depth_550nm', 'black_carbon_aerosol_optical_depth_550nm', 'dust_aerosol_optical_depth_550nm',
             'nitrate_aerosol_optical_depth_550nm', 'organic_matter_aerosol_optical_depth_550nm', 'particulate_matter_10um',

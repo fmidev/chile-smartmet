@@ -1,0 +1,23 @@
+{
+    "title": "ECFWI Initial Fire Spread Index, Rate of Fire Spread As a Number",
+    "abstract": "Initial fire spread index as a number from ECFWI",
+    "projection": {},
+    "producer": "ECFWI",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/initialfirespread.json",
+            "css": "isobands/initialfirespread.css",
+            "parameter": "INFSINX:ECFWI::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "ECFWI Fire Daily Severity Rating, Rating of the Difficulty of Controlling Fires as a Number",
+    "abstract": "Fire daily severity rating as a number from ECFWI",
+    "projection": {},
+    "producer": "ECFWI",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/firedailyseverity.json",
+            "css": "isobands/firedailyseverity.css",
+            "parameter": "FDSRTE:ECFWI::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

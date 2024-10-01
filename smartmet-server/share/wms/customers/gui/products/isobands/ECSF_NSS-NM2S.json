@@ -1,0 +1,23 @@
+{
+    "title": "Northward Surfaces Stress Due to Turbulence Processes, Accumulated, in N m -2 s",
+    "abstract": "Northward surfaces stress due to turbulence processes, accumulated, in N m -2 s from ECSF reanalysis",
+    "projection": {},
+    "producer": "ECSF",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/surfacestress.json",
+            "css": "isobands/surfacestress.css",
+            "parameter": "NSS-NM2S:ECSF::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

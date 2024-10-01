@@ -1,0 +1,179 @@
+[
+    {
+        "attributes": {
+            "class": "Radiationnet_300_inf"
+        },
+        "lolimit": 25920000.0,
+        "qid": "Radiationnet_300_inf"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_275_300"
+        },
+	    "hilimit": 25920000.0,
+        "lolimit": 23760000.0,
+        "qid": "Radiationnet_275_300"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_250_275"
+        },
+        "hilimit": 23760000.0,
+        "lolimit": 21600000.0,
+        "qid": "Radiationnet_250_275"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_225_250"
+        },
+        "hilimit": 21600000.0,
+        "lolimit": 19440000.0,
+        "qid": "Radiationnet_225_250"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_200_225"
+        },
+        "hilimit": 19440000.0,
+        "lolimit": 17280000.0,
+        "qid": "Radiationnet_200_225"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_175_200"
+        },
+        "hilimit": 17280000.0,
+        "lolimit": 15120000.0,
+        "qid": "Radiationnet_175_200"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_150_175"
+        },
+        "hilimit": 15120000.0,
+        "lolimit": 12960000.0,
+        "qid": "Radiationnet_150_175"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_125_150"
+        },
+        "hilimit": 12960000.0,
+        "lolimit": 10800000.0,
+        "qid": "Radiationnet_125_150"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_100_125"
+        },
+        "hilimit": 10800000.0,
+        "lolimit": 8640000.0,
+        "qid": "Radiationnet_100_125"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_75_100"
+        },
+        "hilimit": 8640000.0,
+        "lolimit": 6480000.0,
+        "qid": "Radiationnet_75_100"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_50_75"
+        },
+        "hilimit": 6480000.0,
+        "lolimit": 4320000.0,
+        "qid": "Radiationnet_50_75"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_25_50"
+        },
+        "hilimit": 4320000.0,
+        "lolimit": 2160000.0,
+        "qid": "Radiationnet_25_50"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_0_25"
+        },
+        "hilimit": 2160000.0,
+        "lolimit": 0.0,
+        "qid": "Radiationnet_0_25"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_25_0"
+        },
+        "hilimit": 0.0,
+        "lolimit": -2160000.0,
+        "qid": "Radiationnet_25_0"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_50_25"
+        },
+        "hilimit": -2160000.0,
+        "lolimit": -4320000.0,
+        "qid": "Radiationnet_50_25"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_75_50"
+        },
+        "hilimit": -4320000.0,
+        "lolimit": -6480000.0,
+        "qid": "Radiationnet_75_50"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_100_75"
+        },
+        "hilimit": -6480000.0,
+        "lolimit": -8640000.0,
+        "qid": "Radiationnet_100_75"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_125_100"
+        },
+        "hilimit": -8640000.0,
+        "lolimit": -10800000.0,
+        "qid": "Radiationnet_125_100"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_150_125"
+        },
+        "hilimit": -10800000.0,
+        "lolimit": -12960000.0,
+        "qid": "Radiationnet_150_125"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_175_150"
+        },
+        "hilimit": -12960000.0,
+        "lolimit": -15120000.0,
+        "qid": "Radiationnet_175_150"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_200_175"
+        },
+        "hilimit": -15120000.0,
+        "lolimit": -17280000.0,
+        "qid": "Radiationnet_200_175"
+    },
+    {
+        "attributes": {
+            "class": "Radiationnet_inf_200"
+        },
+        "hilimit": -17280000.0,
+        "qid": "Radiationnet_inf_200"
+    }
+]
+
+        
+      

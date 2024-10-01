@@ -1,0 +1,53 @@
+[
+    {
+        "attributes": {
+            "class": "Keetchbyramdrought_175_200"
+        },
+        "hilimit": 200.0,
+        "lolimit": 175.0,
+        "qid": "Keetchbyramdrought_175_200"
+     },
+     {
+        "attributes": {
+            "class": "Keetchbyramdrought_150_175"
+        },
+        "hilimit": 175.0,
+        "lolimit": 150.0,
+        "qid": "Keetchbyramdrought_150_175"
+     },
+     {
+        "attributes": {
+            "class": "Keetchbyramdrought_100_150"
+        },
+        "hilimit": 150.0,
+        "lolimit": 100.0,
+        "qid": "Keetchbyramdrought_100_150"
+     },
+     {
+        "attributes": {
+            "class": "Keetchbyramdrought_50_100"
+        },
+        "hilimit": 100.0,
+        "lolimit": 50.0,
+        "qid": "Keetchbyramdrought_50_100"
+     },
+     {
+        "attributes": {
+            "class": "Keetchbyramdrought_25_50"
+        },
+        "hilimit": 50.0,
+        "lolimit": 25.0,
+        "qid": "Keetchbyramdrought_25_50"
+     },
+     {
+        "attributes": {
+            "class": "Keetchbyramdrought_0_25"
+        },
+        "hilimit": 25.0,
+        "lolimit": 0.0,
+        "qid": "Keetchbyramdrought_0_25"
+     }
+]
+
+        
+      

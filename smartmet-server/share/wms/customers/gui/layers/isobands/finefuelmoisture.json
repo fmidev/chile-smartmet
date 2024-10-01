@@ -1,0 +1,43 @@
+[
+    {
+       "attributes": {
+           "class": "Finefuelmoisture_930"
+       },
+       "lolimit": 93.0,
+       "qid": "Finefuelmoisture_930"
+    },
+    {
+        "attributes": {
+            "class": "Finefuelmoisture_892_930"
+        },
+        "hilimit": 93.0,
+        "lolimit": 89.2,
+        "qid": "Finefuelmoisture_892_930"
+     },
+     {
+        "attributes": {
+            "class": "Finefuelmoisture_861_892"
+        },
+        "hilimit": 89.2,
+        "lolimit": 86.1,
+        "qid": "Finefuelmoisture_861_892"
+     },
+     {
+        "attributes": {
+            "class": "Finefuelmoisture_827_892"
+        },
+        "hilimit": 89.2,
+        "lolimit": 82.7,
+        "qid": "Finefuelmoisture_827_892"
+     },
+     {
+        "attributes": {
+            "class": "Finefuelmoisture_827"
+        },
+        "hilimit": 82.7,
+        "qid": "Finefuelmoisture_827"
+    }
+]
+
+        
+      

@@ -1,0 +1,23 @@
+{
+    "title": "Soiltype in Number",
+    "abstract": "Soiltype in number from ERA5 reanalysis",
+    "projection": {},
+    "producer": "ERA5",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/soiltype.json",
+            "css": "isobands/soiltype.css",
+            "parameter": "SOILTY-N:ERA5::1:0:1",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}

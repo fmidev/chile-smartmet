@@ -1,0 +1,23 @@
+{
+    "title": "Top Net Solar Radiation in J/m2",
+    "abstract": "Top net solar radiation in J/m2 from ECSF reanalysis",
+    "projection": {},
+    "producer": "ECSF",
+    "source": "grid",
+    "views":[{
+        "layers": [{
+            "qid": "l",
+            "layer_type": "isoband",
+            "isobands": "json:isobands/radiation_jm2.json",
+            "css": "isobands/radiation.css",
+            "parameter": "TSR-JM2:ECSF::1:0:1:0",
+            "sampling":{
+                "relativeresolution": 4
+            },
+            "attributes": {
+                "shape-rendering": "crispEdges"
+            }
+            
+        }]
+    }]
+}
