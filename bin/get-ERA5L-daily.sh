@@ -3,6 +3,7 @@
 # script for fetching daily ERA5-Land reanalysis data and daily statistics from cdsapi
 # and setting it up in the smartmet-server
 # Nordic domain [72, 3, 52, 33]
+# India & Himalayas [65, 5, 100, 40]
 
 #eval "$(conda shell.bash hook)"
 
